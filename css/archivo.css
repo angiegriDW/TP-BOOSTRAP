@@ -1,0 +1,157 @@
+.navbar-brand{
+    text-align: right;
+}
+
+.navbar-nav li{
+    display-box: inline;
+}
+
+.navbar-brand{
+    text-align: left; 
+    width: 30%;
+}
+
+h1{
+    font-size: 1em;
+    display: inline;
+} 
+
+.center-text{
+    text-align: center;
+}
+
+.img-text{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.center{
+    position: absolute;
+    text-align: right;
+    
+    top: 10%;
+    color: white;
+    text-shadow: 2px 2px 0.5px black;
+}
+
+.container-fluid .center{
+    text-align: right;
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 60%;
+}
+
+.row-cols-1{
+    width: 100%;
+    text-align: center;
+    margin-left: 0.5em;
+}
+
+.centrar{
+    text-align: center;
+}
+
+#personas{
+    margin-top: 0.5em;
+}
+
+#personas h2{
+    margin-top: -0.5em;
+}
+
+.row-cols-1 button{
+    margin: 0em 1em 1em;
+    padding: 0.5em;
+}
+
+.col .col-img{
+    width: 50%;
+}
+
+.row-cols-1 #box-right button{
+    border: 1px solid white;
+    color: white;
+}
+
+.col-img{
+    margin-bottom: 0.6em;
+}
+
+.tit-seg{
+    margin-top: 2em;
+}
+
+.tit-seg h2{
+    margin-top: -0.5em;
+}
+#box-right{
+    background-color: #343a40;
+    padding-top: 1em;
+    text-align: left;
+}
+
+.section-two{
+    margin-top: 2em;
+    color: white;
+}
+
+.row-cols-1 .col-img{
+    margin: 0;
+    padding: 0;
+}
+
+.container-form{
+    margin-top: 2em;
+    margin: 0.5em;
+    margin-left: 1em;
+}
+
+.form-floating textarea{
+    margin-top: 0.5em;
+}
+
+.col-12 button{
+    width: 100%;
+    background-color: #97c341;
+}
+
+.center-text{
+    text-align: right;
+}
+
+.section-two{
+    margin-left: 0;
+}
+
+footer{
+    background-color: #1e4155;
+    margin-top: 2em;
+    color: white;
+}
+
+footer ul li{
+    width: 10%;
+    margin-right: 2em ;
+    text-align: center;
+}
+
+.container-lg{
+    margin-left: 20%;
+    width: 60%;
+}
+
+.center button{
+    border: 1px solid white;
+    color: white;
+}
+
+.card-body button{
+    margin: 0;
+    text-align: start;
+    text-align: left;
+}
+
+.nav-link{
+    color: white;
+}
