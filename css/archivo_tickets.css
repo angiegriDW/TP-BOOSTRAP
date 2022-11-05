@@ -1,0 +1,58 @@
+.center-text{
+    text-align: center;
+}
+
+.cr{
+   padding-left: 20%;
+   padding-right: 20%;
+  
+
+}
+
+
+.card{
+    border-radius: 0;
+    
+}
+
+.cb{
+    border: 1px solid blue;
+   
+}
+.cg{
+    border: 1px solid green;
+    
+   
+}
+.cy{
+    border: 1px solid yellow;
+
+}
+
+.md{
+    
+    border: 1px solid orange;
+}
+
+.card-body{
+    margin: 0;
+   
+}
+
+.btn-primary{
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+}
+
+.tp{
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding-bottom: -3px;
+    margin-left: 1%;
+    padding-right: -3%;
+}
+
+.tp p{
+    margin-top: 10px;
+}
